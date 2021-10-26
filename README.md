@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+-  🚀 Learning **MERN** stack development.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://reeetesh.github.io/)**
 
