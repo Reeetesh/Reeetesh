@@ -9,7 +9,7 @@
 
 -  🚀 Learning **MERN** stack development.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://reeetesh.github.io/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://reeetesh.herokuapp.com/)**
 
 - 📫 How to reach me **riteshsahu1560@gmail.com**
 
